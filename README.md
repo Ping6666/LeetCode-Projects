@@ -11,4 +11,5 @@ This measurement can be used in both time (Runtime) and space (Memory).
 
 > Runtime < Memory
 
-Runtime will depend on the LeetCode servers' current load not just on the time complexity of the code.
+Runtime will depend on the LeetCode servers' current load not just on the time complexity of the code. \
+Therefore, it may get different results on runtime complexity or memory complexity while running same code.

@@ -17,6 +17,9 @@
         "valarray": "cpp",
         "source_location": "cpp",
         "map": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "cstring": "cpp",
+        "random": "cpp",
+        "limits": "cpp"
     }
 }
